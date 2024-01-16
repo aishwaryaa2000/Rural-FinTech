@@ -1,1 +1,2 @@
-# Rural-FinTech
+# Fintech
+Financial Literacy in Rural Area
